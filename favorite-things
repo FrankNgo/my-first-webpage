@@ -5,6 +5,8 @@
   </head>
   <body>
     <h1>These are some of my favorite things</h1>
+    <img src="img/Hike.jpg" alt="This is a picture of a hike">
+    <p>This is a link to some great hikes in <a href="https://www.oregonhikers.org/field_guide/Main_Page">Oregon</a>
     <h2>Some of my favorite foods are</h2>
     <ol>
       <li>Pizza</li>
