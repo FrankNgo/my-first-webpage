@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>This is my First Webpage</title>
+  </head>
+
+  <body>
+    <h1>This is my first webpage</h1>
+    <h2>Written with the help of Epicodus</h2>
+
+    <p>This is my first web page!</p>
+    <p>Isnt it nice!</p>
+
+    <p>Here are some things Ill be learning about</p>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+      <li>Alot more things</li>
+    </ul>
+  </body>
+</html>
