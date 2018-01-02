@@ -6,9 +6,9 @@
 
   <body>
     <h1>This is my first webpage</h1>
-    <h2>Written with the help of Epicodus</h2>
+    <h2>Written with the help of <em>Epicodus</em></h2>
 
-    <p>This is my first web page!</p>
+    <p>This is my <strong>first</strong> web page!</p>
     <p>Isnt it nice!</p>
 
     <p>Here are some things Ill be learning about</p>
